@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-< WIP />
+I am a work in progress. So is this page.
